@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **react js**
 
-- 👨‍💻 All of my projects are available at [https://portfolioofsrinu.netlify.app/#top](https://portfolioofsrinu.netlify.app/#top)
+- 👨‍💻 All of my projects are available at [https://portfolioofsrinu.netlify.app](https://portfolioofsrinu.netlify.app)
 
 - 💬 Ask me about **MERN**
 
